@@ -1,6 +1,6 @@
 {
   "name": "express-routes-object",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "returns a json of routes from express router",
   "main": "index.js",
   "scripts": {
